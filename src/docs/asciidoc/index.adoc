@@ -48,7 +48,7 @@ a|
 * link:../../../../../USantaTecla-3-disenyo/2-disenyoModular/build/docs/asciidoc/index.html[2-disenyoModular]
 * link:../../../../../USantaTecla-3-disenyo/3-disenyoOrientadoObjetos/build/docs/asciidoc/index.html[3-disenyoOrientadoObjetos]
 * link:../../../../../USantaTecla-3-disenyo/4-patronesDisenyo/build/docs/asciidoc/index.html[4-patronesDisenyo]
-* link:../../../../../USantaTecla-3-disenyo/5-arquitecturaSoftware/build/docs/asciidoc/index.html[5-arquitecturaSoftware]
+* link:../../../../../USantaTecla-3-disenyo/5-arquitecturaSoftware/build/docs/asciidoc/index.html[5-arquitecturaSoftware] 
 * link:../../../../../USantaTecla-3-disenyo/6-arquitecturaMVC/build/docs/asciidoc/index.html[6-arquitecturaMVC]
 * 7-arquitecturaSistemas
 
@@ -98,7 +98,7 @@ a|
 |===
 
 5+a|*[blue]#USantaTecla-tech#*
-
+ 
 a| link:../../../../../USantaTecla-tech-uml/0-itinerario/build/docs/asciidoc/index.html[uml]
 a| link:../../../../../USantaTecla-tech-plantUml/0-itinerario/build/docs/asciidoc/index.html[plantUml]
 a| link:../../../../../USantaTecla-tech-yaml/0-itinerario/build/docs/asciidoc/index.html[yaml]
