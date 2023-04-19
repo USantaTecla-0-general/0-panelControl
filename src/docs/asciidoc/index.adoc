@@ -115,43 +115,43 @@ a|
 a| link:../../../../../USantaTecla-tech-svg/0-itinerario/build/docs/asciidoc/index.html[svg]
 a| link:../../../../../USantaTecla-tech-html/0-itinerario/build/docs/asciidoc/index.html[html]
 a| link:../../../../../USantaTecla-tech-css/0-itinerario/build/docs/asciidoc/index.html[css]
-a| link:../../../../../USantaTecla-tech-bootstrap/0-itinerario/build/docs/asciidoc/index.html[bootstrap]
+a| 
 
 a| link:../../../../../USantaTecla-tech-javascript/0-itinerario/build/docs/asciidoc/index.html[javascript]
 a| link:../../../../../USantaTecla-tech-dhtml/0-itinerario/build/docs/asciidoc/index.html[dhtml]
 a| link:../../../../../USantaTecla-tech-ajax/0-itinerario/build/docs/asciidoc/index.html[ajax]
 a| link:../../../../../USantaTecla-tech-storage/0-itinerario/build/docs/asciidoc/index.html[storage]
-a| link:../../../../../USantaTecla-tech-react/0-itinerario/build/docs/asciidoc/index.html[react]
+a| canvas
 
 a|
-a| canvas
-a| link:../../../../../USantaTecla-tech-jquery/0-itinerario/build/docs/asciidoc/index.html[jquery]
-a| bootstrap
-a|
+a| angular
+a| link:../../../../../USantaTecla-tech-react/0-itinerario/build/docs/asciidoc/index.html[react]
+a| node
+a| 
 
 a| link:../../../../../USantaTecla-tech-java/0-itinerario/build/docs/asciidoc/index.html[java]
 a| link:../../../../../USantaTecla-tech-swing/0-itinerario/build/docs/asciidoc/index.html[swing]
 a| link:../../../../../USantaTecla-tech-tcp-ip/0-itinerario/build/docs/asciidoc/index.html[tcp/ip]
 a| link:../../../../../USantaTecla-tech-files/0-itinerario/build/docs/asciidoc/index.html[files]
-a| spring
+a| link:../../../../../USantaTecla-tech-jdbc/0-itinerario/build/docs/asciidoc/index.html[jdbc]
 
 a|
-a| link:../../../../../USantaTecla-tech-jdbc/0-itinerario/build/docs/asciidoc/index.html[jdbc R]
-a| link:../../../../../USantaTecla-tech-servlets/0-itinerario/build/docs/asciidoc/index.html[servlets R]
-a| link:../../../../../USantaTecla-tech-jsp/0-itinerario/build/docs/asciidoc/index.html[jsp R]
-a| link:../../../../../USantaTecla-tech-rmi/0-itinerario/build/docs/asciidoc/index.html[rmi R]
+a| spring
+a| link:../../../../../USantaTecla-tech-servlets/0-itinerario/build/docs/asciidoc/index.html[servlets]
+a| link:../../../../../USantaTecla-tech-jsp/0-itinerario/build/docs/asciidoc/index.html[jsp]
+a| link:../../../../../USantaTecla-tech-rmi/0-itinerario/build/docs/asciidoc/index.html[rmi]
 
-a| 
-a| link:../../../../../USantaTecla-tech-semaphores/0-itinerario/build/docs/asciidoc/index.html[semaphores R]
-a| 
-a| 
-a| 
-
-a| jest
-a| link:../../../../../USantaTecla-tech-junit/0-itinerario/build/docs/asciidoc/index.html[junit R]
-a| link:../../../../../USantaTecla-tech-mockito/0-itinerario/build/docs/asciidoc/index.html[mockito R]
-a| jmeter
 a| selenium
+a| jmeter
+a| jest
+a| link:../../../../../USantaTecla-tech-junit/0-itinerario/build/docs/asciidoc/index.html[junit]
+a| link:../../../../../USantaTecla-tech-mockito/0-itinerario/build/docs/asciidoc/index.html[mockito]
+
+a| 
+a| link:../../../../../USantaTecla-tech-semaphores/0-itinerario/build/docs/asciidoc/index.html[semaphores]
+a| continuaciones
+a| promesas
+a| funcional reactiva
 
 |===
 
