@@ -1,4 +1,4 @@
-= Panel de control
+= Universo Santa Tecla
 Universo Santa Tecla <universoSantaTecla@gmail.com>
 :toc-title: Índice
 :toc: left
